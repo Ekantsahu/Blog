@@ -59,9 +59,6 @@ Follow these steps to run the project locally:
 ## **Contributing**  
 If you have ideas to improve this project, feel free to **fork** the repository and submit a **pull request**!  
 
-## **License**  
-This project is licensed under the **MIT License**.  
 
----  
 Let me know if you need any modifications! 🚀
 
